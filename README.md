@@ -22,9 +22,11 @@ At random times, it will also generate a legendary object to loot.
  - randomizer function to generate encounter description on call
 
 Later Goals:
+ - adding legendary items
  - webpage with generator button
  - options to manipulate format
  - options to add fixed details
+
 
 
 ## Developing Journal Log
