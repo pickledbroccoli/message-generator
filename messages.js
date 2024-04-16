@@ -5,7 +5,7 @@ function randomSelector(arr) {
     return arr[index];
 }
 
-const locations = [];
+const locations = ['an ominous crossroad', 'an ancient ruin of the Elder Ones', 'the gates of DustBottom City', 'a broken cart', 'a nice oak tree', 'an empty well', 'the cemetery gates', 'Rick\'s American Bar', 'a quiet village', 'the mouth of a dark cave', 'a creepy old windmill', 'a peaceful lake', 'the korean DMZ', 'the End of the World - as we know it', 'the community pool'];
 const datetimes = [];
 const quests = [];
 const legendaries = [];
