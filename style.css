@@ -9,6 +9,7 @@ body {
     font-family: Helvetica;
     font-size: 60px;
     font-weight: bolder;
+    background-color: #cccccc;
     
 }
 
@@ -32,6 +33,7 @@ body {
     height: 30px;
     font-weight: bold;
     border-width: 3px;
+    background-color: #cccccc;
     
 }
 
@@ -43,6 +45,8 @@ body {
     height: 100px;
     padding: 50px;
     text-align: center;
+    border-style: double;
+    border-color: black;
 
 }
 
@@ -52,7 +56,7 @@ body {
 /*
 ------------------------------------------------------------------------------------------------------------------------------------------
 background image source:
-"https://cache.desktopnexus.com/cropped-wallpapers/2186/2186109-1920x1080-[DesktopNexus.com].jpg?st=hQHqJhrzSzp0fNimQ_-kCw&e=1713297131"
+"https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Flammarion.jpg/1200px-Flammarion.jpg"
 ------------------------------------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------------------------------------
