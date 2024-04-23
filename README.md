@@ -31,7 +31,11 @@ Later Goals:
 
 ## Developing Journal Log
 > 2024 mid April
->> besic
+>> basic code typed in
+
+> 2024 late April
+>> 
+
 
 
 

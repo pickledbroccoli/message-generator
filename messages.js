@@ -62,5 +62,17 @@ function randomTemplateFiller(){
     You've heard of these before - ${fact}.`;
 }
 
+// we have a button to click!
+const generatorButton = document.getElementById('generator');
+const textPlate = document.getElementById('random-text');
 
-console.log(randomTemplateFiller());
+// we have a template to fill!
+function fillTextPlateWithRandomText() {
+    textPlate.innerHTML = randomTemplateFiller();
+    multiple = '';
+    howMany = '';
+}
+
+generatorButton.addEventListener('click', fillTextPlateWithRandomText);
+
+//console.log(randomTemplateFiller());

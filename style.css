@@ -1,0 +1,59 @@
+
+body {
+    background-image: url("./fantasy_bg.jpg");
+    background-color: #cccccc;
+    text-align: center;
+}
+
+.header {
+    font-family: Helvetica;
+    font-size: 60px;
+    font-weight: bolder;
+    
+}
+
+#gen-area {
+    
+    padding: 150px;
+    
+}
+
+#gen-label {
+    position: relative;
+    background-color: #cccccc;
+    
+
+}
+
+#generator {
+    display: block;
+    margin: auto;
+    width: 150px;
+    height: 30px;
+    font-weight: bold;
+    border-width: 3px;
+    
+}
+
+#random-text {
+    position: relative;
+    margin: auto;
+    background-color: #cccccc;
+    width: 385px;
+    height: 100px;
+    padding: 50px;
+    text-align: center;
+
+}
+
+
+
+
+/*
+------------------------------------------------------------------------------------------------------------------------------------------
+background image source:
+"https://cache.desktopnexus.com/cropped-wallpapers/2186/2186109-1920x1080-[DesktopNexus.com].jpg?st=hQHqJhrzSzp0fNimQ_-kCw&e=1713297131"
+------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------
+*/
